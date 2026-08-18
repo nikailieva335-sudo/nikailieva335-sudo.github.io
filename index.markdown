@@ -9,7 +9,7 @@ permalink: /
 ---
 
 <div class="profile-hero">
-  <img src="/images/IMG_5262.jpg" alt="Nika Ilieva">
+  <img src="images/IMG_5262 copy.png" alt="Nika Ilieva">
   <div class="profile-text">
     <h1>Hi, I'm Nika!</h1>
     <p>Device designer and engineer developing solutions for Duke Health systems. Experienced in diagnosing client needs and translating into technical implementation and regulatory-aware product development.</p>
