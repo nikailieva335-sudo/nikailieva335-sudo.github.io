@@ -6,11 +6,11 @@ nav_order: 4
 permalink: /engineering-projects/cad/
 ---
 
-# CAD Projects
+## CAD Projects
 
 ---
 
-## Standard Hybrid 6 Year-Old Model Neck.
+# Standard Hybrid 6 Year-Old Model Neck.
 Crash-test 6 year old dummy neck device design. Plates, brackets and load cell mount.
 
 <div class="drawing-grid three-col">
@@ -53,7 +53,7 @@ Crash-test 6 year old dummy neck device design. Plates, brackets and load cell m
 
 ---
 
-## Lightbox Enclosure
+# Lightbox Enclosure
 
 Designed a character-themed light-up enclosure combining custom PCB design with 3D-printed housing. Used KiCad to create the timer and blinking LED schematic and PCB layout, and Onshape to design the CAD enclosure.
 
@@ -74,9 +74,9 @@ Designed a character-themed light-up enclosure combining custom PCB design with 
 
 ---
 
-## Frog EMG
+# Frog EMG
 
-Collaboration with Duke Pediatric Hospital to produce a toy EMG for children receiving EMG Botox treatments. Expected to be implemented for 150 patients per year. 
+Collaboration with Duke Pediatric Hospital to produce a toy EMG for children receiving EMG Botox treatments. Expected to be implemented for 150 patients per year.
 
 <div class="drawing-grid">
   <div class="drawing-item">

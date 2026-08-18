@@ -1,0 +1,124 @@
+# ============================
+# Site Settings
+# ============================
+title: "Nika Ilieva"
+email: your.email@example.com
+description: >-
+  Biomedical Engineering student focused on medical device design and development.
+url: "https://nikailieva335-sudo.github.io"
+baseurl: "" # leave empty if this is a username.github.io repo (root site)
+
+# ============================
+# Theme
+# ============================
+theme: just-the-docs
+color_scheme: dark
+nav_sort: case_insensitive
+
+aux_links:
+  "GitHub":
+    - "https://github.com/nikailieva335-sudo"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+heading_anchors: true
+
+search_enabled: false
+
+include:
+  - _pages
+# ============================
+# Build Settings
+# ============================
+markdown: kramdown
+remove_theme_pages: true
+locale: "en-US"
+repository: "nikailieva335-sudo/nikailieva335-sudo.github.io"
+
+# ============================
+# Author (sidebar bio)
+# ============================
+author:
+  name: "Nika Ilieva"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Biomedical Engineering Student at Duke Univerity"
+  location: "Durham, NC"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nikailieva335-sudo"
+
+# ============================
+# Footer links (optional, mirrors author links)
+# ============================
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nikailieva335-sudo"
+
+# ============================
+# Default front matter
+# (applies automatically so you don't repeat yourself in every page)
+# ============================
+defaults:
+  # Default for all pages (including _pages/)
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # Default for the homepage specifically
+  - scope:
+      path: "index.md"
+    values:
+      layout: single
+      author_profile: true
+  # Default for blog-style posts, if you use _posts/ later
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: false
+      related: true
+
+# ============================
+# Plugins
+# ============================
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# ============================
+# Reading / excerpt settings
+# ============================
+excerpt_separator: "<!--more-->"
+
+# ============================
+# Files/folders Jekyll should ignore when building
+# ============================
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
