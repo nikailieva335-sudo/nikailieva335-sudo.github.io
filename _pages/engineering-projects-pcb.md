@@ -27,6 +27,15 @@ Create Timer and Blinking LED Schematic and PCB design. Used Onshape to design a
   </div>
 </div>
 
+# Soldering a Perfboard for a photoresistor modulated LED lightbox.
+<div class="drawing-grid">
+  <div class="drawing-item">
+    <img src="/images/Perfboard_solder.jpeg" alt="Lightbox Perfboard" style="max-width: 800px;">
+    <img src="/images/IMG_2386.jpeg" alt="Lightbox Internal" style="max-width: 800px;">
+  </div>
+</div>
+
+
 <style>
 
 <style>
