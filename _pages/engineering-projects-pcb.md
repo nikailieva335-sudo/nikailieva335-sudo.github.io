@@ -9,11 +9,13 @@ permalink: /engineering-projects/pcb/
 
 # CO2 Wearable Monitoring Device for At-Home Sleep Lab
 Partnership with Duke Children's Hospital to create an at-home sleep-lab wearable to monitor and diagnose patients with
-neuromuscular dystrophy.
+neuromuscular dystrophy. Initial version and FIT heater element integration.
 
 <div class="drawing-grid">
   <div class="drawing-item">
     <img src="/images/CO2_Monitor_Schematic.png" alt="CO2 PCB" style="max-width: 800px;">
+    <img src="/images/CO2_V2.png" alt="CO2 PCB" style="max-width: 800px;">
+
   </div>
 </div>
 
