@@ -17,6 +17,18 @@ neuromuscular dystrophy.
   </div>
 </div>
 
+# Lightbox PCB Design
+Create Timer and Blinking LED Schematic and PCB design. Used Onshape to design a CAD enclosure (shown in the CAD section).
+
+<div class="drawing-grid">
+  <div class="drawing-item">
+    <img src="/images/Lightbox_PCB.png" alt="Lightbox PCB Design" style="max-width: 800px;">
+    <img src="/images/Lightbox_Schematic.png" alt="Lightbox PCB Design" style="max-width: 800px;">
+  </div>
+</div>
+
+<style>
+
 <style>
 .drawing-grid {
   display: grid;
